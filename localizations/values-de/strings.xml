@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">MEGA</string>
+    <string name="your_email_hint">Ihre E-mail</string>
+    <string name="password_hint">********</string>
+    <string name="sign_out">Abmelden</string>
+    <string name="upload_here">Hochladen</string>
+    <string name="upload_help">Langes Drücken, um das Verzeichnis hochzuladen</string>
+    <string name="settings_sync_settings">Synchronisation</string>
+    <string name="settings_synch_photos">Fotos synchronisieren</string>
+    <string name="settings_synch_only_on_wifi">Nur mit WiFi synchronisieren</string>
+    <string name="settings">Einstellungen</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="create_folder">Neuer Ordner</string>
+    <string name="noti_desc">Hochladen/Herunterladen-Progress</string>
+    <string name="sync_folder">Sync-Verzeichnis</string>
+    <string name="sync">SYNC</string>
+    <string name="trash">PAPIERKORB</string>
+    <string name="c_drive">CLOUD</string>
+    <string name="settings_synch_only_when_charging">Nur beim Aufladen synchronisieren</string>
+    <string name="thumb">Thumb</string>
+    <string name="settings_monitor_file_changes">Erneut synchronisieren wenn der Inhalt der Datei geändert wird</string>
+    <string name="upload_to">Hochladen auf</string>
+    
+    <!-- RATING RELATED STRINGS -->
+    <string name="app_rating">App Bewertung</string>
+    <!--  \n stands for new line -->
+    <string name="app_rating_text">When %s Ihnen gefällt, nehmen Sie bitte einen Moment, um Anwendung zu bewerten.\nDanke für Ihre Unterstützung!</string>
+    <string name="app_rating_rate">Bewerte %s</string>
+    <string name="app_rating_remind_later">Später erinnern</string>
+    <string name="app_rating_no_thanks">Nein, danke!</string>
+    
+    
+    <!-- MISC -->
+    <string name="misc_item_count">Anzahl von Elementen: %s</string>
+    <string name="misc_download_size">Gesamtgröße: %s</string>
+    <string name="misc_last_modified">Zuletzt modifiziert: %s</string>
+    <string name="misc_file_size">Dateigröße: %s</string>
+    <string name="misc_connection_problem">Probleme mit Verbindung</string>
+    <string name="misc_check_connection">Bitte überprüfen Sie den Status Ihres WiFi oder der mobillen Daten Verbindung!</string>
+	<string name="misc_please_wait">Bitte warten</string>
+	<string name="misc_fetching_remote">Abruf von Remote-Verzeichnissen&#8230;</string>
+	<string name="misc_unknown_error">Unbekannter Fehler</string>
+	<string name="misc_unexpected_response">MEGA-Service liefert ein unerwartetes Ergebnis, schicken Sie Ihren Request erneut.</string>
+	<string name="misc_report">Report senden</string>
+	<string name="misc_send_email">E-mail senden</string>
+	<string name="misc_offline">Sie sind offline</string>
+	<string name="misc_offline_msg">Schalten Sie WiFi oder die Mobile Daten Verbindung auf Ihrem Gerät.</string>
+	
+	<string name="misc_download">Herunterladen</string>
+    <string name="misc_upload">Hochladen</string>
+    <string name="misc_delete_items">Lösche %s Elemente?</string>
+    <string name="misc_unexpected_error">Ein Fehler ist unerwartet aufgetreten, versuchen Sie die letzte Aktion erneut.</string>
+    <string name="misc_error">Ein Fehler ist aufgetreten</string>
+	
+    <!-- REMOTE POPUP BROWSER -->
+    <string name="rpb_illegal_target">Ziel ungültig</string>
+    <string name="rpb_resource_already_child">Das Ressource ist bereits ein Unterverzeichnis vom ausgewählten Verzeichnis.</string>
+    <string name="rpb_move_to">Verschieben nach</string>
+    <string name="rpb_sync_to">Synchronisieren nach</string>
+    <string name="rpb_back_to">Zurück nach %s</string>
+    
+    <!-- LOCAL FILE BROWSER -->
+    <string name="lpb_long_press">Langes Drücken, um ein Sync-Verzeichnis zu wählen</string>
+    <string name="lpb_sync_folder">Sync-Verzeichnis</string>
+    <string name="lpb_upload_file">Datei hochladen</string>
+    <string name="lpb_upload_folder">Verzeichnis hochladen</string>
+ 
+    <!-- LOGIN -->
+    <string name="lgn_invalid_email">E-Mail-Adresse ungültig</string>
+    <string name="lgn_input_valid_email">Geben Sie eine gültige E-Mail-Adresse ein</string>
+    <string name="lgn_no_password">Passwort fehlt</string>
+    <string name="lgn_input_password">Geben Sie ein Passwort ein</string>
+    <!-- &#8230; is special value used instead of '...' -->
+    <string name="lgn_being_logged_in">Sie sind angemeldet&#8230;</string>
+    <string name="lgn_failed">Anmeldung fehlgeschlagen</string>
+    <string name="lgn_provide_correct_info">Geben Sie bitte gültige Anmeldungsdaten ein</string>
+    
+    <!-- CLOUD DRIVE/TRASH  -->
+    <string name="cd_cloud_drive">Cloud</string>
+    <string name="cd_trash">Papierkorb</string>
+    <string name="cd_empty">Enteder bist vom Laufwerk getrennt oder es ist leer&#8230;</string>
+    <string name="cd_provide_link">Geben Sie bitte das Link zum Herunterladen</string>
+    <string name="cd_provided_link_invalid">Das Link ist ungültig</string>
+    <string name="cd_folder_name">Geben Sie einen Verzeichnisnamen ein</string>
+    <string name="cd_name_empty">Der Name kann nicht leer sein</string>
+    <string name="cd_rename_new_name">Einen neuen Namen eingeben</string>
+    <string name="cd_share_link">Das Download-Link teilen</string>
+    <string name="cd_share_files_only">Nur Dateien werden geteilt</string>
+    <string name="cd_download_failed">Download fehlgeschlagen</string>
+    <string name="cd_file_not_found">Datei existiert nicht mehr</string>
+    <string name="cd_menu_download">Herunterladen</string>
+    <string name="cd_menu_delete">Löschen</string>
+    <string name="cd_menu_rename">Umbenennen</string>
+    <string name="cd_menu_move">Verschieben</string>
+    <string name="cd_menu_share">Teilen</string>
+    
+    <!-- SYNC -->
+    <string name="sync_list_empty">Synchronisations-Liste ist leer&#8230;</string>
+    <string name="sync_remove_from_sync">UnSync</string>
+    <string name="sync_remove_details">Entferne %s aus Synchronisation?</string>  
+
+    <!-- NOTIFICATIONS -->
+    <string name="noti_downloading">Herunterladen&#8230;</string>
+    <string name="noti_uploading">Hochladen&#8230;</string>
+    <string name="noti_downloading_f">Herunterladen %s</string>
+    <string name="noti_uploading_f">Hochladen %s</string>
+    <string name="noti_upload_pending">Hochladen bevorstehend&#8230;</string>
+    <string name="noti_download_pending">Herunterladen bevorstehend&#8230;</string>
+    <string name="noti_download_finished">Download beendet</string>
+    <string name="noti_upload_finished">Hochladen beendet</string>
+    <string name="noti_finished_downloading_f">%s beendete das Herunterladen</string>
+    <string name="noti_finished_uploading_f">%s beendete das Hochladen</string>
+    <string name="noti_download_failed">Download fehlgeschlagen.</string>
+    <string name="noti_upload_failed">Hochladen fehlgeschlagen.</string>
+    
+    <!-- LOGIN -->
+    <string name="login">Anmeldung</string>
+    <string name="login_remeber_me">Erinnere dich an mich</string>
+    <string name="login_forgot_password">Passwort vergessen?</string>
+    <string name="cd_menu_download_shared">Download geteilt</string>
+    
+    <!-- New Settings strings -->
+    <string name="settings_download">Download-Ziel</string>
+    <string name="settings_download_placeholder">Ziel</string>
+    <string name="three_dots">&#8230;</string>
+    <string name="long_press_download_destination">Langes Drücken, um Verzeichnis zu wählen</string>
+    
+	<string name="settings_reupload_deleted">Gelöschte Dateien erneut hochladen</string>
+	<string name="settings_reupload_deleted_summary">Das System gelöschte Dateien mit Kopie hochgeladen vom Gerät ersetzen</string>
+	<string name="settings_redownload_deleted">Gelöschte Files erneut herunterladen</string>
+	<string name="settings_redownload_deleted_summary">Das System wird gelöschte Dateien mit Kopien heruntergeladen vom Cloud ersetzen</string>
+	<string name="settings_sync_interval">Synchronisations-Intervall</string>
+	<string name="settings_sync_location">Synchronisations-Ziel</string>
+	<string name="settings_synch_show_noti">Sync-Benachrichtigungen zeigen</string>
+	<string name="settings_general_settings">Generelle Einstellungen</string>
+	<string name="settings_thumb_settings">Thumbnail-Einstellungen</string>
+	<string name="settings_thumbs_for_cloud">Für Cloud-Ressources generieren</string>
+	<string name="settings_thumbs_wifi_only">Nur mit WiFI generieren</string>
+	<string name="sync_process_started">Sync-Prozess erfolgreich gestartet.</string>
+	<string name="general_unhandled_error">Ein Fehler ist aufgetreten. Versuchen Sie es bitte wieder.</string>
+	<string name="sync_local_dir">Sync lokale Verzeichnis</string>
+	<string name="sync_cloud_dir">Sync Cloud-Verzeichnis</string>
+	<string name="sync_local_destination">Lang drücken, um Ziel auswählen</string>
+
+	<string name="sync_two_way_remove_local">Lokale Dateien löschen, wenn auf der Cloud gelöscht</string>
+	<string name="sync_two_way_remove_remote">Löschen Cloud-Ressourcen, wenn auf dem Gerät gelöscht</string>
+	
+	<string name="sync_select_local_folder">Geräteverzeichnis auswählen</string>
+	<string name="sync_select_cloud_folder">Cloudverzeichnis auswählen</string>
+	<string name="sync_type">Typ</string>
+	<string name="sync_phone">Gerät</string>
+	<string name="sync_cloud">Cloud</string>
+	<string name="misc_enabled">Aktiviert</string>
+	<string name="misc_add">Hinzufügen</string>
+	<string name="misc_disabled">Ausgeschaltet</string>
+</resources>

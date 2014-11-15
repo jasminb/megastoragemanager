@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="syncFrequency">
+        <item name="5">Every five minutes</item>
+        <item name="10">Every ten minutes</item>
+        <item name="20">Every twenty minutes</item>
+        <item name="30">Every half hour</item>
+        <item name="60">Every hour</item>
+    </string-array>
+
+    <string-array name="syncNotifications">
+        <item name="0">Never</item>
+        <item name="1">Only if data synced</item>
+        <item name="2">Always</item>
+    </string-array>
+    
+    <string-array name="syncTypes">
+        <item name="0">Two-way sync</item>
+        <item name="1">Device to cloud</item>
+        <item name="2">Cloud to device</item>
+    </string-array>
+  
+</resources>

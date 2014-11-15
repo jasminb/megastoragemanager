@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">MEGA</string>
+    <string name="your_email_hint">Váš e-mail</string>
+    <string name="password_hint">********</string>
+    <string name="sign_out">Odhlásit se</string>
+    <string name="upload_here">Nahrát</string>
+    <string name="upload_help">Dlouhým stisknutím nahrajete celou složku.</string>
+    <string name="settings_sync_settings">Synchronizace</string>
+    <string name="settings_synch_photos">Synchronizace fotografií</string>
+    <string name="settings_synch_only_on_wifi">Synchronizace pouze přes WiFi</string>
+    <string name="settings">Nastavení</string>
+    <string name="refresh">Obnovit</string>
+    <string name="create_folder">Vytvořit složku</string>
+    <string name="noti_desc">Nahrát/Stáhnout stav</string>
+    <string name="sync_folder">Synchronizovat složku</string>
+    <string name="sync">SYNCHRONIZOVAT</string>
+    <string name="trash">KOŠ</string>
+    <string name="c_drive">CLOUDOVÉ ÚLOŽIŠTĚ</string>
+    <string name="settings_synch_only_when_charging">Synchronizovat pouze během nabíjení</string>
+    <string name="thumb">Náhled</string>
+    <string name="settings_monitor_file_changes">Opětovná synchronizace po změně obsahu souboru</string>
+    <string name="upload_to">Přidat do</string>
+    
+    <!-- RATING RELATED STRINGS -->
+    <string name="app_rating">Hodnocení</string>
+    <!--  \n stands for new line -->
+    <string name="app_rating_text">Pokud se Vám líbí %s, prosíme ohodnoťte ji.\nDíky za podporu!</string>
+    <string name="app_rating_rate">Hodnocení %s</string>
+    <string name="app_rating_remind_later">Připomenout později</string>
+    <string name="app_rating_no_thanks">Ne, děkuji!</string>
+    
+    
+    <!-- MISC -->
+    <string name="misc_item_count">Počet položek: %s</string>
+    <string name="misc_download_size">Velikost: %s</string>
+    <string name="misc_last_modified">Poslední změna: %s</string>
+    <string name="misc_file_size">Velikost souboru: %s</string>
+    <string name="misc_connection_problem">Chyba spojení</string>
+    <string name="misc_check_connection">Prosím zkontrolujte stav WiFi, nebo mobilního připojení!</string>
+	<string name="misc_please_wait">Prosím čekejte</string>
+	<string name="misc_fetching_remote">Načítání vzdálených složek#8230;</string>
+	<string name="misc_unknown_error">Neznámá chyba</string>
+	<string name="misc_unexpected_response">Služba MEGA odpověděla neočekávaně, prosím opakujte požadavek.</string>
+	<string name="misc_report">Odeslat hlášení</string>
+	<string name="misc_send_email">Odeslat e-mail</string>
+	<string name="misc_offline">Odpojeno</string>
+	<string name="misc_offline_msg">Prosím zapněte WiFi, nebo mobilní připojení.</string>
+	
+	<string name="misc_download">Stáhnout</string>
+    <string name="misc_upload">Nahrát</string>
+    <string name="misc_delete_items">Smazat %s položek?</string>
+    <string name="misc_unexpected_error">Vyskytla se neznámá chyba, prosím opakujte poslední zadání.</string>
+    <string name="misc_error">Vyskytla se chyba!</string>
+	
+    <!-- REMOTE POPUP BROWSER -->
+    <string name="rpb_illegal_target">Neplatný cíl</string>
+    <string name="rpb_resource_already_child">Zdroj je již používán jako nadřazená složka.</string>
+    <string name="rpb_move_to">Přesunout do</string>
+    <string name="rpb_sync_to">Synchronizovat do</string>
+    <string name="rpb_back_to">Zpět do %s</string>
+    
+    <!-- LOCAL FILE BROWSER -->
+    <string name="lpb_long_press">Dlouhým stisknutím synchronizujete celou složku.</string>
+    <string name="lpb_sync_folder">Synchronizovat složku</string>
+    <string name="lpb_upload_file">Nahrát soubor</string>
+    <string name="lpb_upload_folder">Nahrát složku</string>
+ 
+    <!-- LOGIN -->
+    <string name="lgn_invalid_email">Neplatný e-mail</string>
+    <string name="lgn_input_valid_email">Prosím zadejte platnou e-mailovou addresu</string>
+    <string name="lgn_no_password">Heslo není vyplněno</string>
+    <string name="lgn_input_password">Prosím zadejte Vaše heslo</string>
+    <!-- &#8230; is special value used instead of '...' -->
+    <string name="lgn_being_logged_in">Probíhá přihlašování jako&#8230;</string>
+    <string name="lgn_failed">Chyba přihlášení</string>
+    <string name="lgn_provide_correct_info">Prosím vyplňte platné přihlašovací údaje</string>
+    
+    <!-- CLOUD DRIVE/TRASH  -->
+    <string name="cd_cloud_drive">Cloudové úložistě</string>
+    <string name="cd_trash">Koš</string>
+    <string name="cd_empty">Nejste připojeni, nebo je Vaše úložistě prázdné&#8230;</string>
+    <string name="cd_provide_link">Zadejte URL odkazu</string>
+    <string name="cd_provided_link_invalid">Uvedená adresa není platná</string>
+    <string name="cd_folder_name">Zadejte jméno složky</string>
+    <string name="cd_name_empty">Jménu musí být vyplněno</string>
+    <string name="cd_rename_new_name">Zadejte nový název</string>
+    <string name="cd_share_link">Sdílet odkaz pro stažení</string>
+    <string name="cd_share_files_only">Lze sdílet pouze soubory</string>
+    <string name="cd_download_failed">Stahování selhalo</string>
+    <string name="cd_file_not_found">Soubor již neexistuje</string>
+    <string name="cd_menu_download">Stáhnout</string>
+    <string name="cd_menu_delete">Smazat</string>
+    <string name="cd_menu_rename">Přejmenovat</string>
+    <string name="cd_menu_move">Přesunout</string>
+    <string name="cd_menu_share">Sdílet</string>
+    
+    <!-- SYNC -->
+    <string name="sync_list_empty">Seznam pro Synchronizaci je prázdný&#8230;</string>
+    <string name="sync_remove_from_sync">Nesynchronizovat</string>
+    <string name="sync_remove_details">Zrušit synchronizaci %s ?</string>  
+
+    <!-- NOTIFICATIONS -->
+    <string name="noti_downloading">Stahuji&#8230;</string>
+    <string name="noti_uploading">Nahrávám&#8230;</string>
+    <string name="noti_downloading_f">Stahuji %s</string>
+    <string name="noti_uploading_f">Nahrávám %s</string>
+    <string name="noti_upload_pending">Čeká na nahrání&#8230;</string>
+    <string name="noti_download_pending">Čeká na stažení&#8230;</string>
+    <string name="noti_download_finished">Stahování dokončeno</string>
+    <string name="noti_upload_finished">Nahrávání dokončeno</string>
+    <string name="noti_finished_downloading_f">%s Stahování dokončeno</string>
+    <string name="noti_finished_uploading_f">%s Nahrávání dokončeno</string>
+    <string name="noti_download_failed">Chyba stahování.</string>
+    <string name="noti_upload_failed">Chyba nahrávání.</string>
+    
+    <!-- LOGIN -->
+    <string name="login">Přihlášení</string>
+    <string name="login_remeber_me">Pamatovat přihlášení</string>
+    <string name="login_forgot_password">Zapomenuté heslo</string>
+    <string name="cd_menu_download_shared">Stáhnout sdílené URL</string>
+    
+    <!-- New Settings strings -->
+    <string name="settings_download">Stáhnout do</string>
+    <string name="settings_download_placeholder">Cíl</string>
+    <string name="three_dots">&#8230;</string>
+    <string name="long_press_download_destination">Dlouhým stisknutím vyberete složku.</string>
+    
+	<string name="settings_reupload_deleted">Re-upload deleted files</string>
+	<string name="settings_reupload_deleted_summary">System will replace deleted files with copies uploaded from device</string>
+	<string name="settings_redownload_deleted">Re-download deleted files</string>
+	<string name="settings_redownload_deleted_summary">System will replace deleted files with copies downloaded from the cloud</string>
+	<string name="settings_sync_interval">Synchronization interval</string>
+	<string name="settings_sync_location">Synchronization location</string>
+	<string name="settings_synch_show_noti">Show sync notifications</string>
+	<string name="settings_general_settings">General settings</string>
+	<string name="settings_thumb_settings">Thumbnail settings</string>
+	<string name="settings_thumbs_for_cloud">Generate for cloud resources</string>
+	<string name="settings_thumbs_wifi_only">Generate only on WiFI</string>
+	<string name="sync_process_started">Sync process successfully started.</string>
+	<string name="general_unhandled_error">Something went wrong, please retry</string>
+	<string name="sync_local_dir">Sync local directory</string>
+	<string name="sync_cloud_dir">Sync cloud directory</string>
+	<string name="sync_local_destination">Long-press to select destination</string>
+	<string name="sync_two_way_remove_local">Delete local resource if its deleted on the cloud</string>
+	<string name="sync_two_way_remove_remote">Delete cloud resource if its deleted locally</string>
+	
+	<string name="sync_select_local_folder">Select device directory</string>
+	<string name="sync_select_cloud_folder">Select cloud directory</string>
+	<string name="sync_type">Type</string>
+	<string name="sync_phone">Device</string>
+	<string name="sync_cloud">Cloud</string>
+	<string name="misc_enabled">Enabled</string>
+	<string name="misc_add">Add new</string>
+	<string name="misc_disabled">Disabled</string>
+</resources>
