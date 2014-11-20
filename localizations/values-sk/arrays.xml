@@ -2,10 +2,10 @@
 <resources>
 
     <string-array name="syncFrequency">
-        <item name="5">Každých pä minút</item>
-        <item name="10">Každých desa minút</item>
-        <item name="20">Každých dvadsa minút</item>
-        <item name="30">Každých tridsa minút</item>
+        <item name="5">Každých päť minút</item>
+        <item name="10">Každých desať minút</item>
+        <item name="20">Každých dvadsať minút</item>
+        <item name="30">Každých tridsať minút</item>
         <item name="60">Každú hodinu</item>
         <item name="120">Každé dve hodiny</item>
     </string-array>
