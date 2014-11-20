@@ -37,21 +37,21 @@
     <string name="misc_file_size">Veľkosť súboru: %s</string>
     <string name="misc_connection_problem">Problém s pripojením</string>
     <string name="misc_check_connection">Prosím skontrolujte stav pripojenia WiFi resp. mobilného dátového pripojenia!</string>
-    <string name="misc_please_wait">Prosím čakajte</string>
-    <string name="misc_fetching_remote">Sťahujem vzdialené priečinky&#8230;</string>
-    <string name="misc_unknown_error">Neznáma chyba</string>
-    <string name="misc_unexpected_response">Chybná odpoveď služby MEGA, prosím zopakujte požiadavku znova.</string>
-    <string name="misc_report">Poslať hlásenie</string>
-    <string name="misc_send_email">Poslať email</string>
-    <string name="misc_offline">Nepripojené</string>
-    <string name="misc_offline_msg">Prosím zapnite WiFi resp. mobilné dátové pripojenie.</string>
-    
-    <string name="misc_download">Stiahnuť</string>
+  	<string name="misc_please_wait">Prosím čakajte</string>
+  	<string name="misc_fetching_remote">Sťahujem vzdialené priečinky&#8230;</string>
+  	<string name="misc_unknown_error">Neznáma chyba</string>
+  	<string name="misc_unexpected_response">Chybná odpoveď služby MEGA, prosím zopakujte požiadavku znova.</string>
+  	<string name="misc_report">Poslať hlásenie</string>
+  	<string name="misc_send_email">Poslať email</string>
+  	<string name="misc_offline">Nepripojené</string>
+  	<string name="misc_offline_msg">Prosím zapnite WiFi resp. mobilné dátové pripojenie.</string>
+  	
+  	<string name="misc_download">Stiahnuť</string>
     <string name="misc_upload">Nahrať</string>
     <string name="misc_delete_items">Vymazať %s položku(-iek)?</string>
     <string name="misc_unexpected_error">Došlo k neočakávanej chybe, prosím zopakujte poslednú požiadavku znova.</string>
     <string name="misc_error">Došlo k chybe</string>
-    
+	
     <!-- REMOTE POPUP BROWSER -->
     <string name="rpb_illegal_target">Chybný cieľ</string>
     <string name="rpb_resource_already_child">Zdroj už je vnorený vo Vami zvolenom priečinku.</string>
@@ -125,31 +125,31 @@
     <string name="three_dots">&#8230;</string>
     <string name="long_press_download_destination">Podržte dlhšie stlačené na výber priečinku</string>
 
-    <string name="settings_reupload_deleted">Znovu nahrať vymazané súbory</string>
-    <string name="settings_reupload_deleted_summary">Aplikácia nahradí súbory vymazané v úložisku kópiami nahratými z lokálneho zariadenia</string>
-    <string name="settings_redownload_deleted">Znovu stiahnuť vymazané súbory</string>
-    <string name="settings_redownload_deleted_summary">Aplikácia nahradí súbory vymazané na lokálnom zariadení kópiami nahratými z úložiska</string>
-    <string name="settings_sync_interval">Interval synchronizácie</string>
-    <string name="settings_sync_location">Umiestnenie synchronizácie</string>
-    <string name="settings_synch_show_noti">Zobrazovať upozornenia synchronizácie</string>
-    <string name="settings_general_settings">Všeobecné nastavenia</string>
-    <string name="settings_thumb_settings">Náhľady fotiek</string>
-    <string name="settings_thumbs_for_cloud">Generovať pre fotky v úložisku</string>
-    <string name="settings_thumbs_wifi_only">Generovať iba pri použití WiFi</string>
-    <string name="sync_process_started">Synchronizačný proces bol úspešne spustený.</string>
-    <string name="general_unhandled_error">Niečo sa pokazilo, prosím skúste ešte raz</string>
-    <string name="sync_local_dir">Synchronizovať lokálny priečinok</string>
-    <string name="sync_cloud_dir">Synchronizovať priečinok úložiska</string>
-    <string name="sync_local_destination">Podržte dlhšie stlačené na výber cieľa</string>
-    <string name="sync_two_way_remove_local">Vymazať lokálny zdroj ak bol zmazaný v úložisku</string>
-    <string name="sync_two_way_remove_remote">Vymazať zdroj na úložisku ak bol vymazaný lokálne</string>
+  	<string name="settings_reupload_deleted">Znovu nahrať vymazané súbory</string>
+  	<string name="settings_reupload_deleted_summary">Aplikácia nahradí súbory vymazané v úložisku kópiami nahratými z lokálneho zariadenia</string>
+  	<string name="settings_redownload_deleted">Znovu stiahnuť vymazané súbory</string>
+  	<string name="settings_redownload_deleted_summary">Aplikácia nahradí súbory vymazané na lokálnom zariadení kópiami nahratými z úložiska</string>
+  	<string name="settings_sync_interval">Interval synchronizácie</string>
+  	<string name="settings_sync_location">Umiestnenie synchronizácie</string>
+  	<string name="settings_synch_show_noti">Zobrazovať upozornenia synchronizácie</string>
+  	<string name="settings_general_settings">Všeobecné nastavenia</string>
+  	<string name="settings_thumb_settings">Náhľady fotiek</string>
+  	<string name="settings_thumbs_for_cloud">Generovať pre fotky v úložisku</string>
+  	<string name="settings_thumbs_wifi_only">Generovať iba pri použití WiFi</string>
+  	<string name="sync_process_started">Synchronizačný proces bol úspešne spustený.</string>
+  	<string name="general_unhandled_error">Niečo sa pokazilo, prosím skúste ešte raz</string>
+  	<string name="sync_local_dir">Synchronizovať lokálny priečinok</string>
+  	<string name="sync_cloud_dir">Synchronizovať priečinok úložiska</string>
+  	<string name="sync_local_destination">Podržte dlhšie stlačené na výber cieľa</string>
+  	<string name="sync_two_way_remove_local">Vymazať lokálny zdroj ak bol zmazaný v úložisku</string>
+  	<string name="sync_two_way_remove_remote">Vymazať zdroj na úložisku ak bol vymazaný lokálne</string>
 
-    <string name="sync_select_local_folder">Zvoľte lokálny priečinok</string>
-    <string name="sync_select_cloud_folder">Zvoľte priečinok v úložisku</string>
-    <string name="sync_type">Typ</string>
-    <string name="sync_phone">Lokálne zariadenie</string>
-    <string name="sync_cloud">Úložisko</string>
-    <string name="misc_enabled">Zapnuté</string>
-    <string name="misc_add">Pridať</string>
-    <string name="misc_disabled">Vypnutý</string>
+  	<string name="sync_select_local_folder">Zvoľte lokálny priečinok</string>
+  	<string name="sync_select_cloud_folder">Zvoľte priečinok v úložisku</string>
+  	<string name="sync_type">Typ</string>
+  	<string name="sync_phone">Lokálne zariadenie</string>
+  	<string name="sync_cloud">Úložisko</string>
+  	<string name="misc_enabled">Zapnuté</string>
+  	<string name="misc_add">Pridať</string>
+  	<string name="misc_disabled">Vypnutý</string>
 </resources>

@@ -7,7 +7,7 @@
         <item name="20">Každých dvadsa minút</item>
         <item name="30">Každých tridsa minút</item>
         <item name="60">Každú hodinu</item>
-        <item name="120">Every two hours</item>
+        <item name="120">Každé dve hodiny</item>
     </string-array>
 
     <string-array name="syncNotifications">
