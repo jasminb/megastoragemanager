@@ -67,7 +67,7 @@
  
     <!-- LOGIN -->
     <string name="lgn_invalid_email">Invalid email</string>
-    <string name="lgn_input_valid_email">Please input valid e-mail address</string>
+    <string name="lgn_input_valid_email">Please input valid email address</string>
     <string name="lgn_no_password">No password provided</string>
     <string name="lgn_input_password">Please input your password</string>
     <!-- &#8230; is special value used instead of '...' -->
