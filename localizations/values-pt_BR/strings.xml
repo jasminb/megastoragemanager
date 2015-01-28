@@ -151,5 +151,16 @@
 	<string name="sync_cloud">Núvem</string>
 	<string name="misc_enabled">Habilitado</string>
 	<string name="misc_add">Adicionar novo</string>
-	<string name="misc_disabled">Desabilitado</string></resources>
+	<string name="misc_disabled">Desabilitado</string>
+
+    <!-- MISC from pull request #44 -->
+        <string name="misc_edit">Editar</string>
+        <string name="settings_show_root">Exibir diretório raiz do dispositivo</string>
+        <string name="misc_storage_details">Detalhes do armazenamento</string> <!-- TODO: Check context! -->
+        <string name="misc_no_compatible_app">Não foi encontrada uma aplicação compatível para editar o tipo de arquivo</string>
+        <string name="sync_uploaded_count">Enviado %s</string> <!-- TODO: Check context! -->
+        <string name="sync_downloaded_count">Baixado %s</string> <!-- TODO: Check context -->
+        <string name="misc_file">arquivo</string>
+        <string name="misc_files">arquivos</string>
+
 </resources>
