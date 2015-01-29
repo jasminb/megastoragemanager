@@ -4,7 +4,7 @@
     <string name="password_hint">********</string>
     <string name="sign_out">Desconectar</string>
     <string name="upload_here">Enviar daqui</string>
-    <string name="upload_help">Pressione e mantenha pressionado para enviar o diretório inteiro</string>
+    <string name="upload_help">Pressione e segure para enviar o diretório inteiro</string>
     <string name="settings_sync_settings">Sincronização</string>
     <string name="settings_synch_photos">Sincronizar fotos</string>
     <string name="settings_synch_only_on_wifi">Sincronizar somente via WiFi</string>
@@ -13,10 +13,10 @@
     <string name="create_folder">Criar diretório</string>
     <string name="noti_desc">Progresso do envio/recebimento</string>
     <string name="sync_folder">Sincronizar diretório</string>
-    <string name="sync">Sincronizar</string>
+    <string name="sync">Sincronização</string> <!-- Context FIXED -->
     <string name="trash">Lixeira</string>
-    <string name="c_drive">Armazenamento em núvem</string>
-    <string name="settings_synch_only_when_charging">Sincronizar somente enquanto carregando</string>
+    <string name="c_drive">Disco MEGA</string>
+    <string name="settings_synch_only_when_charging">Sincronizar somente durante recarga</string>
     <string name="thumb">Prévia</string>
     <string name="settings_monitor_file_changes">Resincronizar caso o conteúdo do arquivo seja modificado</string>
     <string name="upload_to">Enviar para</string>
@@ -60,7 +60,7 @@
     <string name="rpb_back_to">Voltar para %s</string>
     
     <!-- LOCAL FILE BROWSER -->
-    <string name="lpb_long_press">Pressione e mantenha pressionado para selecionar o diretório a sincronizar</string>
+    <string name="lpb_long_press">Pressione e segure para selecionar o diretório a sincronizar</string>
     <string name="lpb_sync_folder">Sincronizar diretório</string>
     <string name="lpb_upload_file">Enviar arquivo</string>
     <string name="lpb_upload_folder">Enviar diretório</string>
@@ -96,7 +96,7 @@
     
     <!-- SYNC -->
     <string name="sync_list_empty">A lista de sincronização está vazia&#8230;</string>
-    <string name="sync_remove_from_sync">Remover sincronismo</string> <!-- Bigger, but coerent with above string-->
+    <string name="sync_remove_from_sync">Remover sincronismo</string>
     <string name="sync_remove_details">Remover %s do sincronismo?</string>
 
     <!-- NOTIFICATIONS -->
@@ -120,10 +120,10 @@
     <string name="cd_menu_download_shared">Baixar compartilhamento</string>
     
     <!-- New Settings strings -->
-    <string name="settings_download">Destino do download</string>
+    <string name="settings_download">Destino padrão do download</string>
     <string name="settings_download_placeholder">Destino</string>
     <string name="three_dots">&#8230;</string>
-    <string name="long_press_download_destination">Pressione e mantenha pressionado para selecionar o diretório</string>
+    <string name="long_press_download_destination">Pressione e segure para selecionar o diretório</string>
     
 	<string name="settings_reupload_deleted">Enviar novamente os arquivos removidos</string>
 	<string name="settings_reupload_deleted_summary">O sistema irá substituir os arquivos removidos com cópias enviadas do dispositivo</string>
@@ -134,13 +134,13 @@
 	<string name="settings_synch_show_noti">Mostrar notificações de sincronismo</string>
 	<string name="settings_general_settings">Configurações gerais</string>
 	<string name="settings_thumb_settings">Configurações de pré-visualização</string>
-	<string name="settings_thumbs_for_cloud">Gerar pré-visualizações para recursos na núvem</string>
-	<string name="settings_thumbs_wifi_only">Gerar pré-visualizações somente via WiFi</string>
+	<string name="settings_thumbs_for_cloud">Pré-visualizações na núvem</string>
+	<string name="settings_thumbs_wifi_only">Pré-visualizações somente via WiFi</string>
 	<string name="sync_process_started">Processo de sincronismo iniciado com sucesso</string>
 	<string name="general_unhandled_error">Algo deu errado, por favor tente novamente</string>
 	<string name="sync_local_dir">Sincronizar diretório local</string> <!-- TODO: Check context! -->
 	<string name="sync_cloud_dir">Sincronizar diretório na núvem</string> <!-- TODO: CHeck context! -->
-	<string name="sync_local_destination">Pressione e mantenha pressionado para selecionar o destino</string>
+	<string name="sync_local_destination">Pressione e segure para selecionar o destino</string>
 	<string name="sync_two_way_remove_local">Remover conteúdo local se o mesmo for removido na núvem</string>
 	<string name="sync_two_way_remove_remote">Remover conteúdo da núvem se o mesmo for removido localmente</string>
 	
@@ -150,13 +150,13 @@
 	<string name="sync_phone">Dispositivo</string>
 	<string name="sync_cloud">Núvem</string>
 	<string name="misc_enabled">Habilitado</string>
-	<string name="misc_add">Adicionar novo</string>
+	<string name="misc_add">Criar sincronismo</string>
 	<string name="misc_disabled">Desabilitado</string>
 
     <!-- MISC from pull request #44 -->
         <string name="misc_edit">Editar</string>
         <string name="settings_show_root">Exibir diretório raiz do dispositivo</string>
-        <string name="misc_storage_details">Detalhes do armazenamento</string> <!-- TODO: Check context! -->
+        <string name="misc_storage_details">Uso de espaço</string>
         <string name="misc_no_compatible_app">Não foi encontrada uma aplicação compatível para editar o tipo de arquivo</string>
         <string name="sync_uploaded_count">Enviado %s</string> <!-- TODO: Check context! -->
         <string name="sync_downloaded_count">Baixado %s</string> <!-- TODO: Check context -->
